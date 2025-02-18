@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f08af0b5.css",
+    "main.js": "/static/js/main.5e63472c.js",
+    "static/js/787.c9c6d1bc.chunk.js": "/static/js/787.c9c6d1bc.chunk.js",
+    "static/media/hands-holding-question-mark-symbol.jpg": "/static/media/hands-holding-question-mark-symbol.6696eb70ae183ce20f43.jpg",
+    "static/media/bg-lvl.png": "/static/media/bg-lvl.65d55bd506c15066a962.png",
+    "static/media/phone-Saly-13.png": "/static/media/phone-Saly-13.b3ad24c169344698955f.png",
+    "static/media/bg.png": "/static/media/bg.344604588a155484d7a1.png",
+    "static/media/world-desktop.png": "/static/media/world-desktop.c47ca7975407e8d6df11.png",
+    "static/media/card.png": "/static/media/card.b2ca2249a45954ee84dc.png",
+    "static/media/1667px-Figma-logo.svg.png": "/static/media/1667px-Figma-logo.svg.b08682c3a0753f59813f.png",
+    "static/media/phone.png": "/static/media/phone.c46e3bae551e3a8971ed.png",
+    "static/media/abstract.png": "/static/media/abstract.86173f581ef5ed9c965c.png",
+    "static/media/Logo_University_of_Helsinki_fi.svg.png": "/static/media/Logo_University_of_Helsinki_fi.svg.4accf0381b6268e81a73.png",
+    "static/media/social-media_4187272.png": "/static/media/social-media_4187272.9899e4493edc65ce3c3c.png",
+    "static/media/google-logo.jpg": "/static/media/google-logo.7462e74e3702d1364068.jpg",
+    "static/media/seo_1183680.png": "/static/media/seo_1183680.6840ef648362c433b666.png",
+    "static/media/web-settings_7990955.png": "/static/media/web-settings_7990955.c1e226c2378986748dcc.png",
+    "static/media/laptop_3131622.png": "/static/media/laptop_3131622.069c3c4215f9ac7a9b2b.png",
+    "static/media/strategy_2405194.png": "/static/media/strategy_2405194.47c368ea62497a42d477.png",
+    "static/media/stationary_283688.png": "/static/media/stationary_283688.5b2702025027c5680743.png",
+    "index.html": "/index.html",
+    "main.f08af0b5.css.map": "/static/css/main.f08af0b5.css.map",
+    "main.5e63472c.js.map": "/static/js/main.5e63472c.js.map",
+    "787.c9c6d1bc.chunk.js.map": "/static/js/787.c9c6d1bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f08af0b5.css",
+    "static/js/main.5e63472c.js"
+  ]
+}
